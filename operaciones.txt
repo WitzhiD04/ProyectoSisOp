@@ -1,0 +1,5 @@
+D, Operating Systems, 2233
+R, Operating Systems, 2233
+P, Programming Languages, 2240
+P, Cálculo Diferencial, 120
+Q, Salir, 0
